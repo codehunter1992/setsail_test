@@ -1,0 +1,19 @@
+Project description:
+
+Done - Create a simple React/Next.js application.
+Done - Implement a project with 2 routes: /pricing and /checkout - according to the provided designs
+Done - Enable adding and removing products in pricing page
+Done - Implement checkout form with all necessary validations 
+Done - Empty email, password, country/postal validation etc.
+Done - User needs to agree to terms and conditions to proceed with the checkout
+Done - If form is not valid, output error messages to the user
+Done - During form submission and validation, display a loading state. You can use setTimeout to showcase this.
+If the form is valid, show the user a successful purchase message.
+Done - Implement volume discount:
+Done - If value of products >= $400, add 10% discount.
+Done - Total value needs to be calucated based on the discount.
+Done - If user tries to remove a product and would lose the 10% discount, show a modal confirming their decision (Remove modal screen)
+
+No need for mobile version of the pages
+No need for any API implementations, data can be set up as a JSON file
+Push all code to your GitHub repo
